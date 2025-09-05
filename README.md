@@ -9,7 +9,7 @@ Goal: **AWS Developer Associate** + **AWS ML Specialty**
 ## My Progress
 - Week 1: Hello World in Python  
 - Next: Automating small tasks with Python scripts  
-- 🏗Building towards cloud AI projects + certifications  
+- Building towards cloud AI projects + certifications  
 
 ---
 
